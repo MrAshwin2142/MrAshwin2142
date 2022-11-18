@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ashwin Dhangar</h1>
-<h3 align="center">I</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **React js**
 
