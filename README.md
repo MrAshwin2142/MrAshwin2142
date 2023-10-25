@@ -5,22 +5,75 @@
 <h1 align="center">Hi 👋, I'm Ashwin Dhangar</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **React js**
 
-- 📫 How to reach me **ashwindhangar2142002@gmail.com**
+- 🌱 I’m currently learning **React, Bootstrap**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashwin dhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin dhangar" height="30" width="40" /></a>
-<a href="https://instagram.com/mr._ashwin_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._ashwin_08" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ashwindhangar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashwindhangar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashwindhangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwindhangar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashwin08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashwin08" height="30" width="40" /></a>
-</p>
+- 🤝 I’m looking for **an opportunity to show my skills**
+
+- 👨‍💻 All of my projects are available at [https://ashwin-portfolioo.netlify.app/#](https://ashwin-portfolioo.netlify.app/#)
+
+- 📫 How to reach me **eng.ashwin01@gmail.com**
+
+- 📄 Know about my experiences [https://ashwin-portfolioo.netlify.app/](https://ashwin-portfolioo.netlify.app/)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+## Connect with me:
+- LinkedIn: [Ashwin Dhangar](https://www.linkedin.com/in/ashwin-dhangar/)
+- LeetCode: [ashwinDhangar](https://leetcode.com/ashwinDhangar)
+- Portfolio: [Portfolio](https://ashwin-portfolioo.netlify.app/)
+- Email: eng.ashwin01@gmail.com
+
+## Education
+- Bachelor of Technology, Jawaharlal Institute of Technology, Borawan
+  - Graduation: 2024
+  - Branch: Information Technology
+  - GPA: 8.3
+
+- Senior Secondary, Govt Higher Secondary School, Dewas
+  - Graduation: 2020
+  - Board: MP Board
+  - Score: 80%
+
+## Experience
+- Software Engineering Intern at ConsultAdd Inc
+  - October 2022 - May 2023 (Remote)
+  - Enhanced user experiences through React.js web application development.
+  - Gained exposure to Amazon Web Services (AWS).
+
+## Projects
+- Netflix Clone 
+  - Web Application Development using React, HTML, CSS, and JavaScript.
+  - Integrated the TMDB API for real-time movie data.
+  
+- Personal Portfolio 
+  - Created a responsive personal portfolio website with HTML, CSS, JavaScript, and Bootstrap.
+  
+- SuperMarket Bill System 
+  - Designed a Supermarket Billing System in C++ with file handling capabilities.
+
+## Skills
+- Technical: C++, HTML, CSS, JavaScript, SQL
+- Framework/Library: React, Bootstrap
+- Tools: Visual Studio Code, GitHub, Postman
+- Coursework: DSA, OOPs, DBMS, Operating System
+- **Currently Learning:** React.js
+
+## Achievements
+- Solved 650+ algorithmic problems on LeetCode.
+- Consistent coding streak of over 200 days.
+- Competitive contest rating of 1611(max) and 65+ coding contests.
+- 3-star rating on CodeChef with a rating of 1665.
+
+## Interests
+- Reading books
+- Playing the flute
+- Maintaining a daily diary
+- Playing chess
+
+## Ready for Collaboration
+I'm currently expanding my skills in React.js and I'm enthusiastic about collaborating on web development projects. You can see my portfolio for an overview of my projects and code. If you have an opportunity or a project in mind, feel free to reach out to me at [eng.ashwin01@gmail.com]. I'm open to exploring possibilities and contributing to meaningful projects.
+
+---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrashwin2142&show_icons=true&locale=en" alt="mrashwin2142" /></p>
 
 
