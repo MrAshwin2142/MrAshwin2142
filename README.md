@@ -10,9 +10,12 @@
     alt="susheelthapa"
     />
 </p> -->
-## Profiles:
- [LinkedIn](https://www.linkedin.com/in/ashwin-dhangar/), [LeetCode](https://leetcode.com/ashwinDhangar), [Portfolio](https://ashwin-portfolioo.netlify.app/)
-- Email: eng.ashwin01@gmail.c
+
+
+## 🌐 Socials:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%FFA500.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ashwinDhangar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-dhangar-btech24/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._ashwin_08)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrAshwin2142) 
+
 
 ## Education
 - Bachelor of Technology, Information Technology 2024,  8.3/10
