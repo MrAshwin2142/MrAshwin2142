@@ -1,7 +1,10 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
- 
+<p align="center">
+  
+
+</p>
 <h1 align="center">Hi 👋, I'm Ashwin Dhangar</h1>
 <h3 align="center"></h3>
 <!-- <p align="center">
@@ -53,7 +56,12 @@
     alt="Github Stats"
   />
 </p>
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false) -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAshwin2142&hide_progress=false"
+    />
+</p>
 
 <!---
 MrAshwin2142/MrAshwin2142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
