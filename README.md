@@ -45,22 +45,24 @@
 ## <p align="center"> 📈 GitHub Stats 📉</p>
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAshwin2142&theme=blueberry&hide_progress=false"
+  />
+</p>
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=MrAshwin2142&theme=blueberry&hide_border=true"
     alt="Github Streak"
   />
-</p>
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MrAshwin2142&theme=blueberry&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=MrAshwin2142&theme=blueberry&show_icons=true&hide_border=true&count_private=true&rank_icon=github"
     alt="Github Stats"
   />
 </p>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false) -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAshwin2142&hide_progress=false"
-    />
+  
 </p>
 
 <!---
