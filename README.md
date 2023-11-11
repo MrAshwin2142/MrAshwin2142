@@ -44,8 +44,8 @@
 - 3-star rating on CodeChef with a rating of 1665.
 <p align="center"> 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAshwin2142&repo=The-Wall-of-Projects&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAshwin2142&repo=OpenQuotes&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAshwin2142&repo=The-Wall-of-Projects&theme=blueberry)](https://github.com/MrAshwin2142/The-Wall-of-Projects)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAshwin2142&repo=OpenQuotes&theme=blueberry)](https://github.com/MrAshwin2142/OpenQuotes)
 
 </p>
 
