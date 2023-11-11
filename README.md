@@ -42,6 +42,14 @@
 - Consistent coding streak of over 200 days.
 - Competitive contest rating of 1611(max) and 65+ coding contests.
 - 3-star rating on CodeChef with a rating of 1665.
+<p align="center"> 
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAshwin2142&repo=The-Wall-of-Projects&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrAshwin2142&repo=OpenQuotes&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+
 ## <p align="center"> 📈 GitHub Stats 📉</p>
 
 <p align="center">
