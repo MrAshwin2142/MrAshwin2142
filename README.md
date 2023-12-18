@@ -20,6 +20,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%FFA500.svg?logo=leetcode&logoColor=white)](https://leetcode.com/ashwinDhangar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-dhangar-btech24/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr._ashwin_08)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrAshwin2142) 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrAshwin2142&label=Profile%20views&color=0e75b6&style=flat" alt="atuloli01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrAshwin2142" alt="MrAshwin2142" /></a> </p>
+
+
+
+
 ## Education
 - Bachelor of Technology, Information Technology 2024,  8.3/10
 - Senior Secondary +2, 2020, 80/100
